@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lanxi, an <a href="https://linkedin.com/in/lanxilin">IT Professional</a>☺</h1>
+<h1>Hi, I'm Lanxi, a <a href="https://linkedin.com/in/lanxilin"></a>Computer Science major☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
