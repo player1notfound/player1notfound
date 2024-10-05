@@ -3,8 +3,8 @@
 <h2> Projects:</h2>
 
 - <b>Computer Science Projects</b>
-  -[YouTube Video Downloader Using Pytube](https://github.com/player1notfound/ytdownloader/tree/main)
-  -[Discord Bot Integration with OpenAI API](https://github.com/player1notfound/gpt-bot/tree/main)
+  - [YouTube Video Downloader Using Pytube](https://github.com/player1notfound/ytdownloader/tree/main)
+  - [Discord Bot Integration with OpenAI API](https://github.com/player1notfound/gpt-bot/tree/main)
 
 - <b>Past IT Projects</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/player1notfound/configure-ad)
