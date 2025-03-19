@@ -6,7 +6,7 @@
   - [YouTube Video Downloader Using Pytube](https://github.com/player1notfound/ytdownloader/tree/main)
   - [Discord Bot Integration with OpenAI API](https://github.com/player1notfound/gpt-bot/tree/main)
   - [Intrusion Detection System (IDS) with Suspicious IP Logging](https://github.com/player1notfound/ids/tree/main)
-  - [Azure Security Monitoring](https://github.com/player1notfound/hp/tree/main)
+  - [Azure Honeypot Deployment and Security Monitoring](https://github.com/player1notfound/hp/tree/main)
 
 - <b>Past IT Projects</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/player1notfound/configure-ad)
