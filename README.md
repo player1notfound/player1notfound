@@ -4,7 +4,6 @@
 
 - <b>Projects</b>
   - [YouTube Video Downloader Using Pytube](https://github.com/player1notfound/ytdownloader/tree/main)
-  - [Full-Stack Book Management Platform]()
   - [Discord Bot Integration with OpenAI API](https://github.com/player1notfound/gpt-bot/tree/main)
   - [Intrusion Detection System (IDS) with Suspicious IP Logging](https://github.com/player1notfound/ids/tree/main)
   - [Azure Honeypot Deployment and Security Monitoring](https://github.com/player1notfound/hp/tree/main)
