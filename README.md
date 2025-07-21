@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lanxi, a <a href="https://linkedin.com/in/lanxilin"></a>Computer Science major☺</h1>
+<h1>Hi, I'm Zetian, a <a href="[https://linkedin.com/in/lanxilin](https://www.linkedin.com/in/zetian-shi-99a225376/)"></a>Computer Science major☺</h1>
 
 <h2> Projects:</h2>
 
