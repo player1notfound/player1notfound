@@ -11,9 +11,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/player1notfound/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/player1notfound/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/player1notfound/ticket-lifecycle)
--->
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Lanxi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/lanxilin
+-->
